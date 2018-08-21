@@ -1,4 +1,4 @@
-package com.zmxv.RNSound;
+package no.nyby.RNSound;
 
 import java.util.ArrayList;
 import java.util.Collections;
