@@ -1,4 +1,4 @@
-package com.zmxv.RNSound;
+package no.nyby.RNSound;
 
 import android.content.Context;
 import android.content.res.AssetFileDescriptor;
@@ -196,7 +196,7 @@ public class RNSoundModule extends ReactContextBaseJavaModule implements AudioMa
       }
       return mediaPlayer;
     }
-    
+
     return null;
   }
 
